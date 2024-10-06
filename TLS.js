@@ -1,5 +1,5 @@
 // scripy by kriska1337
-//Нариман шакиров хуесос и асылбек тоже)))))))
+
 const url = require('url'),
 fs = require('fs'),
 http2 = require('http2'),
